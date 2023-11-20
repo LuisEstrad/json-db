@@ -7,7 +7,7 @@
         "images": ["https://drive.google.com/file/d/1SlqfzNFTbW12U_wnTB9t5SEj78Nosx0H/view?usp=drive_link"],
       "category": {
         "id": "1",
-        "name": "Consultas",
+        "name": "consultas",
         "image": "https://drive.google.com/file/d/1SlqfzNFTbW12U_wnTB9t5SEj78Nosx0H/view?usp=drive_link"
       }
      },
@@ -19,7 +19,7 @@
       "images": "https://drive.google.com/file/d/1phdca9YBAS6m_wcYTIkH8uxqtVMl2p5c/view?usp=drive_link",
       "category": {
         "id": "2",
-        "name": "Limpiezas",
+        "name": "limpiezas",
         "image": "https://drive.google.com/file/d/1phdca9YBAS6m_wcYTIkH8uxqtVMl2p5c/view?usp=drive_link"
       }
      },
@@ -31,7 +31,7 @@
       "images": "https://drive.google.com/file/d/1waTzKgAWO5gw3SAPFYnVpjOCV1UU5jw5/view?usp=drive_link",
       "category": {
         "id": "3",
-        "name": "Radiografias",
+        "name": "radiografias",
         "image": "https://drive.google.com/file/d/1waTzKgAWO5gw3SAPFYnVpjOCV1UU5jw5/view?usp=drive_link"
       }
      },
@@ -55,7 +55,7 @@
       "images": "https://drive.google.com/file/d/1TlK3LCCGHjOjmmI6xdHyT51emmhVRLaW/view?usp=drive_link",
       "category": {
         "id": "4",
-        "name": "Otros",
+        "name": "otros",
         "image": "https://drive.google.com/file/d/1TlK3LCCGHjOjmmI6xdHyT51emmhVRLaW/view?usp=drive_link"
       }
      },
@@ -79,7 +79,7 @@
       "images": "https://drive.google.com/file/d/1NRgM1UXSG8tgxdz9VBS3CS-yVBwwaKIK/view?usp=drive_link",
       "category": {
         "id": "4",
-        "name": "Otros",
+        "name": "otros",
         "image": "https://drive.google.com/file/d/1NRgM1UXSG8tgxdz9VBS3CS-yVBwwaKIK/view?usp=drive_link"
       }
      },
@@ -91,7 +91,7 @@
       "images": "https://drive.google.com/file/d/1xBQvOxX9plKX4CDPavSxN7b4QNrA-8f4/view?usp=drive_link",
       "category": {
         "id": "5",
-        "name": "Ortodoncia",
+        "name": "ortodoncia",
         "image": "https://drive.google.com/file/d/1xBQvOxX9plKX4CDPavSxN7b4QNrA-8f4/view?usp=drive_link"
       }
      }
