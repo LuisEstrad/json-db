@@ -4,12 +4,12 @@
       "title" :"Consulta",
       "price": 80,
       "description": "Consulta médica general, primera vez o de seguimiento",
+        "images": ["https://drive.google.com/file/d/1SlqfzNFTbW12U_wnTB9t5SEj78Nosx0H/view?usp=drive_link"],
       "category": {
         "id": "1",
         "name": "Consultas",
         "image": "https://drive.google.com/file/d/1SlqfzNFTbW12U_wnTB9t5SEj78Nosx0H/view?usp=drive_link"
-      },
-      "images": ["https://drive.google.com/file/d/1SlqfzNFTbW12U_wnTB9t5SEj78Nosx0H/view?usp=drive_link"]
+      }
      },
      {
       "id" :2,
