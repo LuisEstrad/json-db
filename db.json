@@ -1,5 +1,5 @@
 {
-  "servicios": {
+  "servicios": [
     {
       "id" :1,
       "title" :"Consulta",
@@ -88,6 +88,6 @@
         "name": "Procedimientos",
         "image": "https://drive.google.com/file/d/1xBQvOxX9plKX4CDPavSxN7b4QNrA-8f4/view?usp=drive_link"
     }
-  }
+  ]
 }
           
