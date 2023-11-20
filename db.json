@@ -1,1 +1,93 @@
-
+{
+  "servicios": [
+    {
+      "id" :1,
+      "title" :"Consulta",
+      "price": 80,
+      "description": "Consulta médica general, primera vez o de seguimiento",
+      "images": "https://drive.google.com/file/d/1SlqfzNFTbW12U_wnTB9t5SEj78Nosx0H/view?usp=drive_link",
+      "category": {
+        "id": "1",
+        "name": "Consultas",
+        "image": "https://drive.google.com/file/d/1SlqfzNFTbW12U_wnTB9t5SEj78Nosx0H/view?usp=drive_link"
+    }
+    {
+      "id" :2,
+      "title" :"Limpieza",
+      "price": 100,
+      "description": "Limpieza de los dientes, remover sarro, blanquemiento",
+      "images": "https://drive.google.com/file/d/1phdca9YBAS6m_wcYTIkH8uxqtVMl2p5c/view?usp=drive_link",
+      "category": {
+        "id": "2",
+        "name": "Procedimientos",
+        "image": "https://drive.google.com/file/d/1phdca9YBAS6m_wcYTIkH8uxqtVMl2p5c/view?usp=drive_link"
+    }
+    {
+      "id" :3,
+      "title" :"Radiografía",
+      "price": 250,
+      "description": "Radiografía simple",
+      "images": "https://drive.google.com/file/d/1waTzKgAWO5gw3SAPFYnVpjOCV1UU5jw5/view?usp=drive_link",
+      "category": {
+        "id": "2",
+        "name": "Procedimientos",
+        "image": "https://drive.google.com/file/d/1waTzKgAWO5gw3SAPFYnVpjOCV1UU5jw5/view?usp=drive_link"
+    }
+    {
+      "id" :4,
+      "title" :"Endodoncia",
+      "price": 3000,
+      "description": "Extirpación de la pulpa dental y el posterior relleno y sellado de la cavidad pulpar, el precio puede variar de la gravedad de la encia",
+      "images": "https://drive.google.com/file/d/1qz16irK5cl8rnFIv2Tealv3xTVtPseYx/view?usp=drive_link",
+      "category": {
+        "id": "3",
+        "name": "Operacion",
+        "image": "https://drive.google.com/file/d/1qz16irK5cl8rnFIv2Tealv3xTVtPseYx/view?usp=drive_link"
+    }
+    {
+      "id" :5,
+      "title" :"Protesis",
+      "price": 3000,
+      "description": "Portesis simples o completas, el precio varia de la cantidad de protesis",
+      "images": "https://drive.google.com/file/d/1TlK3LCCGHjOjmmI6xdHyT51emmhVRLaW/view?usp=drive_link",
+      "category": {
+        "id": "2",
+        "name": "Procedimientos",
+        "image": "https://drive.google.com/file/d/1TlK3LCCGHjOjmmI6xdHyT51emmhVRLaW/view?usp=drive_link"
+    }
+    {
+      "id" :6,
+      "title" :"Resinas",
+      "price": 800,
+      "description": "Recuperar parte del diente perdida o cariada, su precio puede variar",
+      "images": "https://drive.google.com/file/d/1I5QLYIbxRqvO9zZ1iWyjaKgSoNqp2Zb1/view?usp=drive_link",
+      "category": {
+        "id": "2",
+        "name": "Procedimientos",
+        "image": "https://drive.google.com/file/d/1I5QLYIbxRqvO9zZ1iWyjaKgSoNqp2Zb1/view?usp=drive_link"
+    }
+    {
+      "id" :7,
+      "title" :"Extracción",
+      "price": 300,
+      "description": "El precio varia dependiendo de la cantidad de dientes o muelas a extraer",
+      "images": "https://drive.google.com/file/d/1NRgM1UXSG8tgxdz9VBS3CS-yVBwwaKIK/view?usp=drive_link",
+      "category": {
+        "id": "3",
+        "name": "Operacion",
+        "image": "https://drive.google.com/file/d/1NRgM1UXSG8tgxdz9VBS3CS-yVBwwaKIK/view?usp=drive_link"
+    }
+    {
+      "id" :8,
+      "title" :"Ortodoncia",
+      "price": 7000,
+      "description": "Procedimiento para arreglar el alineado de la dentadura. Su precio puede variar",
+      "images": "https://drive.google.com/file/d/1xBQvOxX9plKX4CDPavSxN7b4QNrA-8f4/view?usp=drive_link",
+      "category": {
+        "id": "2",
+        "name": "Procedimientos",
+        "image": "https://drive.google.com/file/d/1xBQvOxX9plKX4CDPavSxN7b4QNrA-8f4/view?usp=drive_link"
+    }
+  ]
+}
+          
