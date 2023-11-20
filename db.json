@@ -20,7 +20,7 @@
       "images": "https://drive.google.com/file/d/1phdca9YBAS6m_wcYTIkH8uxqtVMl2p5c/view?usp=drive_link",
       "category": {
         "id": "2",
-        "name": "Procedimientos",
+        "name": "Limpiezas",
         "image": "https://drive.google.com/file/d/1phdca9YBAS6m_wcYTIkH8uxqtVMl2p5c/view?usp=drive_link"
       }
      },
@@ -31,8 +31,8 @@
       "description": "Radiografía simple",
       "images": "https://drive.google.com/file/d/1waTzKgAWO5gw3SAPFYnVpjOCV1UU5jw5/view?usp=drive_link",
       "category": {
-        "id": "2",
-        "name": "Procedimientos",
+        "id": "3",
+        "name": "Radiografias",
         "image": "https://drive.google.com/file/d/1waTzKgAWO5gw3SAPFYnVpjOCV1UU5jw5/view?usp=drive_link"
       }
      },
@@ -43,8 +43,8 @@
       "description": "Extirpación de la pulpa dental y el posterior relleno y sellado de la cavidad pulpar, el precio puede variar de la gravedad de la encia",
       "images": "https://drive.google.com/file/d/1qz16irK5cl8rnFIv2Tealv3xTVtPseYx/view?usp=drive_link",
       "category": {
-        "id": "3",
-        "name": "Operacion",
+        "id": "4",
+        "name": "otros",
         "image": "https://drive.google.com/file/d/1qz16irK5cl8rnFIv2Tealv3xTVtPseYx/view?usp=drive_link"
       }
      },
@@ -55,8 +55,8 @@
       "description": "Portesis simples o completas, el precio varia de la cantidad de protesis",
       "images": "https://drive.google.com/file/d/1TlK3LCCGHjOjmmI6xdHyT51emmhVRLaW/view?usp=drive_link",
       "category": {
-        "id": "2",
-        "name": "Procedimientos",
+        "id": "4",
+        "name": "Otros",
         "image": "https://drive.google.com/file/d/1TlK3LCCGHjOjmmI6xdHyT51emmhVRLaW/view?usp=drive_link"
       }
      },
@@ -67,8 +67,8 @@
       "description": "Recuperar parte del diente perdida o cariada, su precio puede variar",
       "images": "https://drive.google.com/file/d/1I5QLYIbxRqvO9zZ1iWyjaKgSoNqp2Zb1/view?usp=drive_link",
       "category": {
-        "id": "2",
-        "name": "Procedimientos",
+        "id": "4",
+        "name": "otros",
         "image": "https://drive.google.com/file/d/1I5QLYIbxRqvO9zZ1iWyjaKgSoNqp2Zb1/view?usp=drive_link"
       }
      },
@@ -79,8 +79,8 @@
       "description": "El precio varia dependiendo de la cantidad de dientes o muelas a extraer",
       "images": "https://drive.google.com/file/d/1NRgM1UXSG8tgxdz9VBS3CS-yVBwwaKIK/view?usp=drive_link",
       "category": {
-        "id": "3",
-        "name": "Operacion",
+        "id": "4",
+        "name": "Otros",
         "image": "https://drive.google.com/file/d/1NRgM1UXSG8tgxdz9VBS3CS-yVBwwaKIK/view?usp=drive_link"
       }
      },
@@ -91,8 +91,8 @@
       "description": "Procedimiento para arreglar el alineado de la dentadura. Su precio puede variar",
       "images": "https://drive.google.com/file/d/1xBQvOxX9plKX4CDPavSxN7b4QNrA-8f4/view?usp=drive_link",
       "category": {
-        "id": "2",
-        "name": "Procedimientos",
+        "id": "5",
+        "name": "Ortodoncia",
         "image": "https://drive.google.com/file/d/1xBQvOxX9plKX4CDPavSxN7b4QNrA-8f4/view?usp=drive_link"
       }
      }
